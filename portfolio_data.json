@@ -27,17 +27,17 @@
         "z": "10"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
-        "x": "130px",
-        "y": "470px",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBB</div>",
+        "x": "80px",
+        "y": "350px",
         "w": "200px",
         "h": "",
         "z": "10"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBB</div>",
-        "x": "190px",
-        "y": "350px",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
+        "x": "130px",
+        "y": "470px",
         "w": "200px",
         "h": "",
         "z": "10"
