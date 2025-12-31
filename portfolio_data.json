@@ -35,7 +35,7 @@
       {
         "html": "<div class=\"upload-wrapper\">\n                    <div style=\"position:absolute;top:0;left:0;width:100%;height:3px;background:rgba(0,0,0,0.05);z-index:20;\"><div class=\"up-bar\" style=\"width: 100%; height: 100%; background: rgb(52, 168, 83); transition: width 0.2s;\"></div></div>\n                    <div class=\"up-pct\" style=\"position:absolute;top:5px;right:5px;font-size:9px;color:#34A853;font-weight:bold;z-index:20;\">100%</div>\n                    <img src=\"blob:https://cdpn.io/26c34e25-c3a6-45db-8102-cf469a632a2f\">\n                </div>",
         "x": "1548px",
-        "y": "350.606px",
+        "y": "350.687px",
         "w": "250px"
       }
     ],
