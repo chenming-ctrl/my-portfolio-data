@@ -45,10 +45,18 @@
         "y": "100px",
         "w": "300px",
         "h": ""
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169248703_9nyyg.jpg?token=A466QYEICYTNRZPGZEXA6Y3JKTOR4\" style=\"width: 100%; opacity: 1;\">",
+        "x": "726.886px",
+        "y": "100px",
+        "w": "300px",
+        "h": ""
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169242809_a7gy7.jpg?token=A466QYF3BSYUBHVA6Q6C6OLJKTORO"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169242809_a7gy7.jpg?token=A466QYF3BSYUBHVA6Q6C6OLJKTORO",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169248703_9nyyg.jpg?token=A466QYEICYTNRZPGZEXA6Y3JKTOR4"
     ]
   }
 }
