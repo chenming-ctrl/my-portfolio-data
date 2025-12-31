@@ -97,11 +97,10 @@
         "w": "293.484px"
       },
       {
-        "html": "<img src=\"blob:https://cdpn.io/bc497774-bdf6-4240-bf17-fcae5faba281\">",
-        "x": "450px",
+        "html": "<div class=\"placeholder-box\">UPLOADING...</div>",
+        "x": "470px",
         "y": "992px",
-        "w": "291.531px",
-        "taskId": "task_1767195834895_0"
+        "w": "291.531px"
       }
     ],
     "thumbs": [
