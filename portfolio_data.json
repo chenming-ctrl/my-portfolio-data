@@ -52,17 +52,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195805997_0_IMG_7845-1.jpg\">",
-        "x": "1546px",
-        "y": "352px",
-        "w": "294.93px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767196461883_0_IMG_7771-1.jpg\">",
         "x": "1855.89px",
         "y": "352px",
         "w": "298.439px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195805997_0_IMG_7845-1.jpg\">",
+        "x": "1815.95px",
+        "y": "-23.6681px",
+        "w": "294.93px",
         "h": "auto"
       }
     ],
