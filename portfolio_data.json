@@ -10,8 +10,8 @@
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171464894_y58is.jpg\">\n            ",
-        "x": "908px",
-        "y": "350px",
+        "x": "168.03px",
+        "y": "74.4948px",
         "w": "300px"
       },
       {
@@ -61,6 +61,12 @@
         "x": "911.212px",
         "y": "775.313px",
         "w": "300px"
+      },
+      {
+        "html": "<div class=\"upload-wrapper\"><div class=\"pct-tag\">0%</div><div style=\"font-size:9px; color:#999;\">UPLOADING...</div></div>",
+        "x": "1230.17px",
+        "y": "772.899px",
+        "w": "250px"
       }
     ],
     "thumbs": [
