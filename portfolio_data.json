@@ -6,55 +6,64 @@
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171460052_cs47c.jpg\">\n            ",
         "x": "586.781px",
         "y": "345px",
-        "w": "300px"
+        "w": "300px",
+        "h": "auto"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171464894_y58is.jpg\">\n            ",
         "x": "908px",
         "y": "350px",
-        "w": "300px"
+        "w": "300px",
+        "h": "auto"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171588344_8gioj.jpg\">\n            ",
         "x": "1228px",
         "y": "350px",
-        "w": "300px"
+        "w": "300px",
+        "h": "auto"
       },
       {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\"><br></div>",
         "x": "80px",
         "y": "350px",
-        "w": "200px"
+        "w": "200px",
+        "h": "auto"
       },
       {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\"><br></div>",
         "x": "116.372px",
         "y": "529.728px",
-        "w": "200px"
+        "w": "200px",
+        "h": "auto"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767183720489_IMG_79001.jpg\">",
         "x": "34.4406px",
         "y": "352.147px",
-        "w": "523.817px"
+        "w": "523.817px",
+        "h": "auto"
       },
       {
         "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
         "x": "-288.656px",
         "y": "352px",
-        "w": "auto"
+        "w": "auto",
+        "h": "auto"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195805997_0_IMG_7845-1.jpg\">",
         "x": "1546px",
         "y": "352px",
-        "w": "294.93px"
+        "w": "294.93px",
+        "h": "auto"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767196461883_0_IMG_7771-1.jpg\">",
         "x": "1855.89px",
         "y": "352px",
-        "w": "298.439px"
+        "w": "298.439px",
+        "h": "auto"
       }
     ],
     "thumbs": [
