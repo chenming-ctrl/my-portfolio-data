@@ -21,13 +21,13 @@
         "w": "300px"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBB</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">B</div>",
         "x": "80px",
         "y": "350px",
         "w": "200px"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\"><br></div>",
         "x": "116.372px",
         "y": "529.728px",
         "w": "200px"
