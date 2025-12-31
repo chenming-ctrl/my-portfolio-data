@@ -1,6 +1,6 @@
 {
   "a1767156803872": {
-    "title": "AAA",
+    "title": "LOg",
     "layout": [
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171460052_cs47c.jpg\">\n            ",
@@ -21,7 +21,7 @@
         "w": "300px"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">B</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\"><br></div>",
         "x": "80px",
         "y": "350px",
         "w": "200px"
