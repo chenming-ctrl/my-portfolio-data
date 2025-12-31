@@ -3,16 +3,16 @@
     "title": "AAA",
     "layout": [
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">New Text</div>",
-        "x": "69.0486px",
-        "y": "339.873px",
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
+        "x": "103.095px",
+        "y": "404.871px",
         "w": "200px",
         "h": ""
       },
       {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">New Text</div>",
-        "x": "103.095px",
-        "y": "404.871px",
+        "x": "69.0486px",
+        "y": "339.873px",
         "w": "200px",
         "h": ""
       }
