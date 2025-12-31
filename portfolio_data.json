@@ -8,6 +8,13 @@
         "y": "339.873px",
         "w": "200px",
         "h": ""
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">New Text</div>",
+        "x": "103.095px",
+        "y": "404.871px",
+        "w": "200px",
+        "h": ""
       }
     ],
     "thumbs": []
