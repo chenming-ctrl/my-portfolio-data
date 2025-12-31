@@ -3,14 +3,6 @@
     "title": "AAA",
     "layout": [
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
-        "x": "103px",
-        "y": "404px",
-        "w": "200px",
-        "h": "",
-        "z": "10"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBBB</div>",
         "x": "69px",
         "y": "339px",
@@ -39,6 +31,14 @@
         "x": "1210px",
         "y": "360px",
         "w": "300px",
+        "h": "",
+        "z": "10"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
+        "x": "103px",
+        "y": "404px",
+        "w": "200px",
         "h": "",
         "z": "10"
       }
