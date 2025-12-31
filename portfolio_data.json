@@ -38,13 +38,6 @@
         "h": "auto"
       },
       {
-        "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
-        "x": "-288.656px",
-        "y": "352px",
-        "w": "auto",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767196461883_0_IMG_7771-1.jpg\">",
         "x": "1855.89px",
         "y": "352px",
@@ -63,6 +56,13 @@
         "x": "50.6163px",
         "y": "359.657px",
         "w": "523.817px",
+        "h": "auto"
+      },
+      {
+        "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
+        "x": "-288.656px",
+        "y": "352px",
+        "w": "auto",
         "h": "auto"
       }
     ],
