@@ -43,6 +43,12 @@
         "x": "-288.656px",
         "y": "352px",
         "w": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195805997_0_IMG_7845-1.jpg\">",
+        "x": "1546.5px",
+        "y": "352px",
+        "w": "250px"
       }
     ],
     "thumbs": [
@@ -83,6 +89,13 @@
         "x": "764px",
         "y": "350px",
         "w": "300px"
+      },
+      {
+        "html": "<img src=\"blob:https://cdpn.io/e7011a9e-62fd-407e-99df-38fe17baa3ca\">",
+        "x": "546.8670010418665px",
+        "y": "888.5334485477314px",
+        "w": "250px",
+        "taskId": "task_1767195818438_0"
       }
     ],
     "thumbs": [
