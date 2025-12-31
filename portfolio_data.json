@@ -8,20 +8,6 @@
         "y": "100px",
         "w": "300px",
         "h": ""
-      },
-      {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">aaa</div>",
-        "x": "100px",
-        "y": "100px",
-        "w": "200px",
-        "h": ""
-      },
-      {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">New TASext</div>",
-        "x": "106.984px",
-        "y": "170.817px",
-        "w": "200px",
-        "h": ""
       }
     ],
     "thumbs": [
