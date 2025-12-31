@@ -71,7 +71,7 @@
         "w": "300px"
       },
       {
-        "html": "<div class=\"miro-text-box\" contenteditable=\"false\">建筑是一种艺术</div>",
+        "html": "<div class=\"miro-text-box\" contenteditable=\"false\">大三大四dasd</div>",
         "x": "140px",
         "y": "764.429px",
         "w": "200px"
@@ -80,6 +80,12 @@
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767169236874_1767172423441.jpg\">",
         "x": "764px",
         "y": "350px",
+        "w": "300px"
+      },
+      {
+        "html": "<div style=\"padding:20px; font-size:10px; color:#aaa;\">LOADING...</div>",
+        "x": "158px",
+        "y": "815.143px",
         "w": "300px"
       }
     ],
