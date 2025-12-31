@@ -71,10 +71,16 @@
         "w": "300px"
       },
       {
-        "html": "<div class=\"miro-text-box\" contenteditable=\"false\">Double click to edit</div>",
-        "x": "835.298px",
-        "y": "754.162px",
+        "html": "<div class=\"miro-text-box\" contenteditable=\"true\">建筑ben</div>",
+        "x": "-509.119px",
+        "y": "363.022px",
         "w": "200px"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767169236874_1767172423441.jpg\">",
+        "x": "100px",
+        "y": "100px",
+        "w": "300px"
       }
     ],
     "thumbs": [
