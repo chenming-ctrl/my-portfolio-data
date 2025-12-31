@@ -56,25 +56,25 @@
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171536243_yrgbs.jpg\">\n            ",
         "x": "140px",
         "y": "347px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
+        "w": "300px"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171553462_srgai.jpg\">\n            ",
         "x": "450px",
         "y": "350px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
+        "w": "300px"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171557016_voxwy.jpg\">\n            ",
         "x": "-170px",
         "y": "350px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
+        "w": "300px"
+      },
+      {
+        "html": "<div class=\"miro-text-box\" contenteditable=\"false\">Double click to edit</div>",
+        "x": "835.298px",
+        "y": "754.162px",
+        "w": "200px"
       }
     ],
     "thumbs": [
