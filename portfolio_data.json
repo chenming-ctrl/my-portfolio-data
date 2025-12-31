@@ -49,6 +49,12 @@
         "x": "1543.2px",
         "y": "350px",
         "w": "300px"
+      },
+      {
+        "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\">\n                    <div class=\"pct-tag\">50%</div>\n                    <div style=\"font-size:9px; color:#999;\">UPLOADING...</div>\n                </div>",
+        "x": "100px",
+        "y": "100px",
+        "w": "300px"
       }
     ],
     "thumbs": [
