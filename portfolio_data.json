@@ -79,12 +79,6 @@
         "w": "300px"
       },
       {
-        "html": "<div style=\"padding:20px; font-size:10px; color:#aaa;\">LOADING...</div>",
-        "x": "158px",
-        "y": "815.143px",
-        "w": "300px"
-      },
-      {
         "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\">\n                    <div class=\"pct-tag\">50%</div>\n                    <div style=\"font-size:9px; color:#999;\">UPLOADING...</div>\n                </div>",
         "x": "100px",
         "y": "100px",
