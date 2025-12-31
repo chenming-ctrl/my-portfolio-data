@@ -3,14 +3,6 @@
     "title": "AAA",
     "layout": [
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBBB</div>",
-        "x": "69px",
-        "y": "339px",
-        "w": "200px",
-        "h": "",
-        "z": "10"
-      },
-      {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171460052_cs47c.jpg\">\n            ",
         "x": "588px",
         "y": "358px",
@@ -36,8 +28,16 @@
       },
       {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">AA</div>",
-        "x": "100px",
-        "y": "400px",
+        "x": "130px",
+        "y": "470px",
+        "w": "200px",
+        "h": "",
+        "z": "10"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBBB</div>",
+        "x": "70px",
+        "y": "340px",
         "w": "200px",
         "h": "",
         "z": "10"
