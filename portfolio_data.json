@@ -126,7 +126,17 @@
   },
   "a1767196745120": {
     "title": "CCC",
-    "layout": [],
-    "thumbs": []
+    "layout": [
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767198271303_0_IMG_7815-1.jpg\">",
+        "x": "475px",
+        "y": "337.5px",
+        "w": "250px",
+        "h": "auto"
+      }
+    ],
+    "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767198271303_0_IMG_7815-1.jpg"
+    ]
   }
 }
