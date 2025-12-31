@@ -71,7 +71,7 @@
         "w": "300px"
       },
       {
-        "html": "<div class=\"miro-text-box\" contenteditable=\"true\">建筑ben</div>",
+        "html": "<div class=\"miro-text-box\" contenteditable=\"false\">建筑是一种艺术</div>",
         "x": "-509.119px",
         "y": "363.022px",
         "w": "200px"
