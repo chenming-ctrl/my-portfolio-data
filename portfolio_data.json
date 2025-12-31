@@ -36,8 +36,8 @@
       },
       {
         "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">BBB</div>",
-        "x": "70px",
-        "y": "380px",
+        "x": "190px",
+        "y": "350px",
         "w": "200px",
         "h": "",
         "z": "10"
