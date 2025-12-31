@@ -42,27 +42,7 @@
   },
   "a1767169236874": {
     "title": "BBB",
-    "layout": [
-      {
-        "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767170229546_9gwqa.jpg?token=A466QYDVAAOVDQFKTR2GQ43JKTQPK\" style=\"width:100%;\">\n            ",
-        "x": "-206px",
-        "y": "100px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
-      },
-      {
-        "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767170203289_ayv0x.jpg?token=A466QYB3YTJYERDEX7QLKW3JKTQOI\" style=\"width:100%;\">\n            ",
-        "x": "100px",
-        "y": "100px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
-      }
-    ],
-    "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767170229546_9gwqa.jpg?token=A466QYDVAAOVDQFKTR2GQ43JKTQPK",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767170203289_ayv0x.jpg?token=A466QYB3YTJYERDEX7QLKW3JKTQOI"
-    ]
+    "layout": [],
+    "thumbs": []
   }
 }
