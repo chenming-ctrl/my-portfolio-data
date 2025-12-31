@@ -56,31 +56,41 @@
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171536243_yrgbs.jpg\">\n            ",
         "x": "140px",
         "y": "347px",
-        "w": "300px"
+        "w": "300px",
+        "h": "",
+        "z": "10"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171553462_srgai.jpg\">\n            ",
         "x": "450px",
         "y": "350px",
-        "w": "300px"
+        "w": "300px",
+        "h": "",
+        "z": "10"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171557016_voxwy.jpg\">\n            ",
-        "x": "-239.074px",
-        "y": "337.987px",
-        "w": "300px"
+        "x": "-239px",
+        "y": "337px",
+        "w": "300px",
+        "h": "",
+        "z": "10"
       },
       {
         "html": "<div class=\"miro-text-box\" contenteditable=\"false\">建筑是一种艺术</div>",
-        "x": "-530.022px",
-        "y": "358.495px",
-        "w": "200px"
+        "x": "-530px",
+        "y": "358px",
+        "w": "200px",
+        "h": "",
+        "z": "10"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767169236874_1767172423441.jpg\">",
-        "x": "764.702px",
-        "y": "350.279px",
-        "w": "300px"
+        "x": "764px",
+        "y": "350px",
+        "w": "300px",
+        "h": "",
+        "z": "10"
       }
     ],
     "thumbs": [
