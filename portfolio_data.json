@@ -90,17 +90,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195818438_0_IMG_7705.JPEG\">",
-        "x": "146px",
-        "y": "992px",
-        "w": "293.484px",
-        "h": "auto"
-      },
-      {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171536243_yrgbs.jpg\">\n            ",
         "x": "136.888px",
         "y": "348.776px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195818438_0_IMG_7705.JPEG\">",
+        "x": "-240.982px",
+        "y": "1724.8px",
+        "w": "293.484px",
         "h": "auto"
       }
     ],
