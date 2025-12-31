@@ -17,28 +17,9 @@
         "w": "200px",
         "h": "",
         "z": "10"
-      },
-      {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169082125_8sphi.jpg?token=A466QYE5EAXUTJTQS5NSBMLJKTOHO\" style=\"width: 100%; opacity: 1;\">",
-        "x": "290px",
-        "y": "294px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
-      },
-      {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169089608_72e5r.jpg?token=A466QYBKMM7LLAKEWDY4CGTJKTOH6\" style=\"width: 100%; opacity: 1;\">",
-        "x": "604.062px",
-        "y": "294px",
-        "w": "300px",
-        "h": "",
-        "z": "10"
       }
     ],
-    "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169082125_8sphi.jpg?token=A466QYE5EAXUTJTQS5NSBMLJKTOHO",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169089608_72e5r.jpg?token=A466QYBKMM7LLAKEWDY4CGTJKTOH6"
-    ]
+    "thumbs": []
   },
   "a1767169236874": {
     "title": "BBB",
