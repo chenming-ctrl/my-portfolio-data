@@ -4,14 +4,14 @@
     "layout": [
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171460052_cs47c.jpg\">\n            ",
-        "x": "569px",
-        "y": "350px",
+        "x": "579.35px",
+        "y": "346.606px",
         "w": "300px"
       },
       {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171464894_y58is.jpg\">\n            ",
-        "x": "908px",
-        "y": "350px",
+        "x": "168.03px",
+        "y": "74.4948px",
         "w": "300px"
       },
       {
@@ -40,13 +40,13 @@
       },
       {
         "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\"><div class=\"pct-tag\">0%</div><div style=\"font-size:9px; color:#999;\">UPLOADING...</div></div>",
-        "x": "569.968px",
-        "y": "295.585px",
+        "x": "562.141px",
+        "y": "200.837px",
         "w": "300px"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767156803872_1767174390890_IMG_7815-1.jpg\">",
-        "x": "1543.2px",
+        "x": "1543px",
         "y": "350px",
         "w": "300px"
       },
@@ -58,15 +58,15 @@
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767156803872_1767176032773_IMG_7815-1.jpg\">",
-        "x": "908px",
-        "y": "777px",
+        "x": "911.212px",
+        "y": "775.313px",
         "w": "300px"
       },
       {
-        "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\">\n                    <div class=\"pct-tag\">50%</div>\n                    <div style=\"font-size:9px; color:#999;\">UPLOADING...</div>\n                </div>",
-        "x": "100px",
-        "y": "100px",
-        "w": "300px"
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767176232722_1.jpg\">",
+        "x": "1230.17px",
+        "y": "772.899px",
+        "w": "250px"
       }
     ],
     "thumbs": [
@@ -112,12 +112,6 @@
         "html": "<div style=\"padding:20px; font-size:10px; color:#aaa;\">LOADING...</div>",
         "x": "158px",
         "y": "815.143px",
-        "w": "300px"
-      },
-      {
-        "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\">\n                    <div class=\"pct-tag\">50%</div>\n                    <div style=\"font-size:9px; color:#999;\">UPLOADING...</div>\n                </div>",
-        "x": "100px",
-        "y": "100px",
         "w": "300px"
       }
     ],
