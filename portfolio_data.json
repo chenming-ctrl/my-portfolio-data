@@ -33,12 +33,6 @@
         "w": "200px"
       },
       {
-        "html": "<div class=\"upload-wrapper\" style=\"opacity:0.3;\"><div class=\"pct-tag\">0%</div><div style=\"font-size:9px; color:#999;\">UPLOADING...</div></div>",
-        "x": "569.968px",
-        "y": "295.585px",
-        "w": "300px"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767156803872_1767174390890_IMG_7815-1.jpg\">",
         "x": "1543.2px",
         "y": "350px",
