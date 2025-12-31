@@ -15,8 +15,17 @@
         "y": "339.873px",
         "w": "200px",
         "h": ""
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169082125_8sphi.jpg?token=A466QYE5EAXUTJTQS5NSBMLJKTOHO\" style=\"width: 100%; opacity: 1;\">",
+        "x": "290px",
+        "y": "294px",
+        "w": "300px",
+        "h": ""
       }
     ],
-    "thumbs": []
+    "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169082125_8sphi.jpg?token=A466QYE5EAXUTJTQS5NSBMLJKTOHO"
+    ]
   }
 }
