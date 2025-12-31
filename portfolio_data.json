@@ -62,13 +62,6 @@
     "title": "jianguo",
     "layout": [
       {
-        "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171553462_srgai.jpg\">\n            ",
-        "x": "450px",
-        "y": "350px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171557016_voxwy.jpg\">\n            ",
         "x": "-239px",
         "y": "337px",
@@ -102,12 +95,19 @@
         "y": "1724.8px",
         "w": "293.484px",
         "h": "auto"
+      },
+      {
+        "html": "\n                \n                \n                <img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171553462_srgai.jpg\">\n            ",
+        "x": "450px",
+        "y": "350px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171553462_srgai.jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171557016_voxwy.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767169236874_1767172423441.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/a1767169236874_1767172423441.jpg",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/hd_1767171536243_yrgbs.jpg"
     ]
   },
   "a1767196745120": {
