@@ -1,7 +1,15 @@
 {
   "a1767156803872": {
     "title": "AAA",
-    "layout": [],
+    "layout": [
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:10px; outline:none; font-size:1rem;\">New Text</div>",
+        "x": "100px",
+        "y": "100px",
+        "w": "200px",
+        "h": ""
+      }
+    ],
     "thumbs": []
   }
 }
