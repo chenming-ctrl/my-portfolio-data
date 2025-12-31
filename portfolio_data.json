@@ -38,7 +38,17 @@
   },
   "a1767169236874": {
     "title": "BBB",
-    "layout": [],
-    "thumbs": []
+    "layout": [
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169242809_a7gy7.jpg?token=A466QYF3BSYUBHVA6Q6C6OLJKTORO\" style=\"width: 100%; opacity: 1;\">",
+        "x": "100px",
+        "y": "100px",
+        "w": "300px",
+        "h": ""
+      }
+    ],
+    "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/v4_1767169242809_a7gy7.jpg?token=A466QYF3BSYUBHVA6Q6C6OLJKTORO"
+    ]
   }
 }
