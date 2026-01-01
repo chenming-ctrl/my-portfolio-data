@@ -94,5 +94,18 @@
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767198271303_0_IMG_7815-1.jpg"
     ]
+  },
+  "about_section": {
+    "title": "ABOUT CHENMING",
+    "layout": [
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:40px; font-size:1.1rem; line-height:1.8; font-weight:300; max-width:600px; outline:none;\">Design, Technology and Architecture. Edit your bio here...</div>",
+        "x": "100px",
+        "y": "150px",
+        "w": "80vw",
+        "h": "auto"
+      }
+    ],
+    "thumbs": []
   }
 }
