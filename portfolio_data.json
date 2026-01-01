@@ -99,7 +99,7 @@
     "title": "ABOUT CHENMING",
     "layout": [
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:40px; font-size:1.1rem; line-height:1.8; font-weight:300; max-width:600px; outline:none;\">Design, Technology and Architecture. Edit your bio here...</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:40px; font-size:1.1rem; line-height:1.8; font-weight:300; max-width:600px; outline:none;\">Chenming Li hold a Architecture Dilopmal form University of Hong Kong. He lives in Hong Kong as an Architectural Designer and Research. His research interest is Digital Design Methodology and Sustainable Design Apporarch.&nbsp;<br><br>His publishing is&nbsp;</div>",
         "x": "100px",
         "y": "150px",
         "w": "80vw",
