@@ -38,17 +38,17 @@
         "h": "auto"
       },
       {
-        "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
-        "x": "-289.98px",
-        "y": "374.878px",
-        "w": "auto",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767195805997_0_IMG_7845-1.jpg\">",
         "x": "1542px",
         "y": "346.926px",
         "w": "294.93px",
+        "h": "auto"
+      },
+      {
+        "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
+        "x": "-289.98px",
+        "y": "374.878px",
+        "w": "auto",
         "h": "auto"
       }
     ],
