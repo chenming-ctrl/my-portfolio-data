@@ -41,6 +41,13 @@
     "title": "KK_Studio",
     "layout": [
       {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div>In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;<span style=\"font-size: 1.1rem;\">is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction&nbsp;</span><span style=\"font-size: 1.1rem;\">material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than&nbsp;</span><span style=\"font-size: 1.1rem;\">the size of building in gerenal in upper area.</span></div></div>",
+        "x": "257px",
+        "y": "325.095px",
+        "w": "288.198px",
+        "h": "auto"
+      },
+      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767366625481_0_未标题_全景图1.jpg\">",
         "x": "-57px",
         "y": "-137.774px",
@@ -59,13 +66,6 @@
         "x": "559px",
         "y": "338.68px",
         "w": "300px",
-        "h": "auto"
-      },
-      {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div>In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;<span style=\"font-size: 1.1rem;\">is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction&nbsp;</span><span style=\"font-size: 1.1rem;\">material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than&nbsp;</span><span style=\"font-size: 1.1rem;\">the size of building in gerenal in upper area.</span></div></div>",
-        "x": "257px",
-        "y": "325.095px",
-        "w": "288.198px",
         "h": "auto"
       }
     ],
