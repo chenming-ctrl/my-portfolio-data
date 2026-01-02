@@ -24,13 +24,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767368278491_0_IMG_7815-1.jpg\">",
-        "x": "873px",
-        "y": "339.68px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767369001306_0_微信图片_20201201143831.png\">",
         "x": "-61px",
         "y": "1210.96px",
@@ -43,12 +36,19 @@
         "y": "1243.78px",
         "w": "62.9073px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767368278491_0_IMG_7815-1.jpg\">",
+        "x": "873px",
+        "y": "339.68px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767366625481_0_未标题_全景图1.jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767368278491_0_IMG_7815-1.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767369001306_0_微信图片_20201201143831.png"
     ]
   },
   "a1767169236874": {
