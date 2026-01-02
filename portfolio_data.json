@@ -62,17 +62,16 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg\">",
-        "x": "559px",
-        "y": "338.68px",
-        "w": "300px",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "x": "500px",
+        "y": "500px",
+        "w": "250px",
         "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767366625481_0_未标题_全景图1.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767368278491_0_IMG_7815-1.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767368278491_0_IMG_7815-1.jpg"
     ]
   },
   "a1767196745120": {
