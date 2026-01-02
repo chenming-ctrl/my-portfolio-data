@@ -17,20 +17,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767364096391_0_3.jpg\">",
-        "x": "559px",
-        "y": "819.934px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767364151247_0_IMG_676-1.jpg\">",
-        "x": "873px",
-        "y": "825.489px",
-        "w": "755.014px",
-        "h": "auto"
-      },
-      {
         "html": "<div style=\"padding:15px; font-size:1.2rem; min-width:100px; outline:none;\" contenteditable=\"false\" spellcheck=\"false\"><div><div><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; background-color: rgb(233, 238, 246);\">局代码之中，代码其他部分不做调整。</span></div></div></div>",
         "x": "243px",
         "y": "816.478px",
@@ -38,17 +24,24 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">A</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div>In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;<span style=\"font-size: 1.1rem;\">is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction&nbsp;</span><span style=\"font-size: 1.1rem;\">material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than&nbsp;</span><span style=\"font-size: 1.1rem;\">the size of building in gerenal in upper area.</span></div></div>",
         "x": "295px",
         "y": "338.295px",
         "w": "250px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767364151247_0_IMG_676-1.jpg\">",
+        "x": "873px",
+        "y": "888px",
+        "w": "755.014px",
         "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363563060_0_IMG_7771-1.jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767364096391_0_3.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767364151247_0_IMG_676-1.jpg"
     ]
   },
   "a1767169236874": {
