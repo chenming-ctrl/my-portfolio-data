@@ -76,10 +76,18 @@
         "y": "337.5px",
         "w": "250px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767370844426_0_ARCH7081_20_Conpect%20Collage%20(1).jpg\">",
+        "x": "161px",
+        "y": "247px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767198271303_0_IMG_7815-1.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767198271303_0_IMG_7815-1.jpg",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767370844426_0_ARCH7081_20_Conpect%20Collage%20(1).jpg"
     ]
   },
   "about_section": {
