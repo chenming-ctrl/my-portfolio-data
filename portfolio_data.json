@@ -81,9 +81,16 @@
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
-        "x": "-51.4409px",
-        "y": "785.061px",
+        "x": "-50px",
+        "y": "965.394px",
         "w": "297.118px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "x": "275.979px",
+        "y": "976.845px",
+        "w": "250px",
         "h": "auto"
       }
     ],
