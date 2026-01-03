@@ -66,13 +66,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
-        "x": "1374.39px",
-        "y": "961.797px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_1_ARCH7081_20_Section%20Military.jpg\">",
         "x": "559px",
         "y": "763.563px",
@@ -84,6 +77,13 @@
         "x": "559px",
         "y": "1461.18px",
         "w": "623.651px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
+        "x": "925.591px",
+        "y": "803.799px",
+        "w": "300px",
         "h": "auto"
       }
     ],
