@@ -8,10 +8,18 @@
         "y": "-422.267px",
         "w": "300px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432696874_0_ARCH7081_20_Assembly%20Test1%20(3).png\">",
+        "x": "199.097px",
+        "y": "751.802px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432696874_0_ARCH7081_20_Assembly%20Test1%20(3).png"
     ]
   }
 }
