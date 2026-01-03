@@ -73,17 +73,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
-        "x": "281.625px",
-        "y": "1084px",
-        "w": "243.367px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767425622981_3_ARCH7081_20_Conpect%20Collage%20(2).jpg\">",
         "x": "1571.7px",
         "y": "684px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
+        "x": "-51.4409px",
+        "y": "785.061px",
+        "w": "297.118px",
         "h": "auto"
       }
     ],
