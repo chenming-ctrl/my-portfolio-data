@@ -94,13 +94,6 @@
     "title": "ABOUT CHENMING",
     "layout": [
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408159201_0_CV_2025_a.jpg\">",
-        "x": "-209px",
-        "y": "218.983px",
-        "w": "294.507px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:40px; font-size:1.1rem; line-height:1.8; font-weight:300; max-width:600px; outline:none;\"><p data-path-to-node=\"2\" style=\"font-size: 17.6px;\"><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; white-space-collapse: preserve;\"><b>Li Chenming</b>&nbsp;is an Architectural Designer and Researcher based in Hong Kong and Shen Zhen. He holds a Master of Architecture from&nbsp;<b>The University of Hong Kong (HKU)</b>.&nbsp;His professional experience encompasses a diverse range of scales and typologies, from large-scale public institutions like the Wuxi Urban Construction Museum to educational facilities such as the Guangzhou Huawai International School.&nbsp;Prior to his current role, he contributed to the development of several international school projects in Shenzhen and Wuhan during his tenure at ZHUBO Design Group.</span></p><p data-path-to-node=\"2\" style=\"font-size: 17.6px;\"><span style=\"color: rgb(31, 31, 31); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-variant-ligatures: none; white-space-collapse: preserve;\">In addition to his design practice, Chenming is deeply engaged in computational research, specifically exploring the intersection of<b>&nbsp;Artificial Intelligence&nbsp;</b>and architectural production.&nbsp;While serving as a Research Assistant at HKU's Department of Architecture, he focused on the strategic integration of text-to-image generation and evolutionary computing within multiplayer design processes.&nbsp;His research has been published in recognized international platforms, including<b>&nbsp;ACADIA 2023&nbsp;</b>and&nbsp;<b>Design Computation Input/Output</b>.&nbsp;His work has received several accolades, including the<b>&nbsp;Asian Design Award</b>&nbsp;and the Anji International Bamboo Construction Competition award.</span></p></div>",
         "x": "179.47px",
         "y": "191.884px",
@@ -108,15 +101,37 @@
         "h": "auto"
       },
       {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408159201_0_CV_2025_a.jpg\">",
+        "x": "-130px",
+        "y": "204.591px",
+        "w": "294.507px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408241940_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png\">",
+        "x": "221px",
+        "y": "842.038px",
+        "w": "144.019px",
+        "h": "auto"
+      },
+      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408076514_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png\">",
-        "x": "-204.137px",
-        "y": "495.576px",
+        "x": "379px",
+        "y": "841.509px",
         "w": "146.035px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408249918_0_ARCH7081_20_Assembly%20parts%20photo%20(4).png\">",
+        "x": "539px",
+        "y": "843.732px",
+        "w": "142.759px",
         "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408159201_0_CV_2025_a.jpg",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408241940_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408076514_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png"
     ]
   }
