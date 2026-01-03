@@ -38,13 +38,6 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
-        "x": "-36.3028px",
-        "y": "940.104px",
-        "w": "250px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_1_ARCH7081_20_Section%20Military.jpg\">",
         "x": "559px",
         "y": "795.704px",
@@ -91,6 +84,13 @@
         "x": "1575.44px",
         "y": "1246.44px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
+        "x": "-38.3077px",
+        "y": "930px",
+        "w": "250px",
         "h": "auto"
       }
     ],
