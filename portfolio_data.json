@@ -31,13 +31,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg\">",
-        "x": "559px",
-        "y": "338.68px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\">First, build a new frame on the old building in Hong Kong, the concrete boundary is the high limit, and the original roof. Then the&nbsp;</span>structure was built to create a reasonable space for the citizens to use. In order to communicate between buildings, it is very important for architectural elements to connect during the growth process.</div></div>",
         "x": "1906.93px",
         "y": "905px",
@@ -66,13 +59,6 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div>In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;<span style=\"font-size: 1.1rem;\">is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction&nbsp;</span><span style=\"font-size: 1.1rem;\">material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than&nbsp;</span><span style=\"font-size: 1.1rem;\">the size of building in gerenal in upper area.</span></div></div>",
-        "x": "260px",
-        "y": "335.501px",
-        "w": "285.9px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_2_ARCH7081_20_Tpyical%20Plan.jpg\">",
         "x": "559px",
         "y": "1461.18px",
@@ -84,6 +70,20 @@
         "x": "-50px",
         "y": "975px",
         "w": "297.118px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div>In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;<span style=\"font-size: 1.1rem;\">is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction&nbsp;</span><span style=\"font-size: 1.1rem;\">material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than&nbsp;</span><span style=\"font-size: 1.1rem;\">the size of building in gerenal in upper area.</span></div></div>",
+        "x": "260px",
+        "y": "335.501px",
+        "w": "285.9px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767363569922_0_IMG_7845-1.jpg\">",
+        "x": "559px",
+        "y": "338.68px",
+        "w": "300px",
         "h": "auto"
       },
       {
