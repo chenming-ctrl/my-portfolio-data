@@ -59,13 +59,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_1_ARCH7081_20_Section%20Military.jpg\">",
-        "x": "559px",
-        "y": "763.563px",
-        "w": "616.787px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_2_ARCH7081_20_Tpyical%20Plan.jpg\">",
         "x": "559px",
         "y": "1461.18px",
@@ -87,10 +80,17 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">Assembly Process</div>",
         "x": "275.979px",
         "y": "976.845px",
         "w": "250px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_1_ARCH7081_20_Section%20Military.jpg\">",
+        "x": "559px",
+        "y": "763.563px",
+        "w": "616.787px",
         "h": "auto"
       }
     ],
