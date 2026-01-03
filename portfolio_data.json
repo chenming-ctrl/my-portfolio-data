@@ -80,7 +80,7 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">Assembly Process</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
         "x": "275.979px",
         "y": "976.845px",
         "w": "250px",
