@@ -101,14 +101,22 @@
         "h": "auto"
       },
       {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408159201_0_CV_2025_a.jpg\">",
+        "x": "-209px",
+        "y": "-61.2434px",
+        "w": "294.507px",
+        "h": "auto"
+      },
+      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408076514_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png\">",
-        "x": "-214px",
-        "y": "38.9876px",
-        "w": "300px",
+        "x": "-204px",
+        "y": "218px",
+        "w": "146.035px",
         "h": "auto"
       }
     ],
     "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408159201_0_CV_2025_a.jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767408076514_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png"
     ]
   }
