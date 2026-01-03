@@ -45,13 +45,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767425622981_3_ARCH7081_20_Conpect%20Collage%20(2).jpg\">",
-        "x": "1571.7px",
-        "y": "684px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\">First, build a new frame on the old building in Hong Kong, the concrete boundary is the high limit, and the original roof. Then the&nbsp;</span>structure was built to create a reasonable space for the citizens to use. In order to communicate between buildings, it is very important for architectural elements to connect during the growth process.</div></div>",
         "x": "1906.93px",
         "y": "905px",
@@ -84,6 +77,13 @@
         "x": "281.625px",
         "y": "1084px",
         "w": "243.367px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767425622981_3_ARCH7081_20_Conpect%20Collage%20(2).jpg\">",
+        "x": "1571.7px",
+        "y": "684px",
+        "w": "300px",
         "h": "auto"
       }
     ],
