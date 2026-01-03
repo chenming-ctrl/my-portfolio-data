@@ -59,13 +59,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
-        "x": "-50px",
-        "y": "965.394px",
-        "w": "297.118px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_1_ARCH7081_20_Section%20Military.jpg\">",
         "x": "559px",
         "y": "763.563px",
@@ -87,9 +80,16 @@
         "h": "auto"
       },
       {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914925_0_ARCH7081_20_Combination%20process.jpg\">",
+        "x": "-50px",
+        "y": "975px",
+        "w": "297.118px",
+        "h": "auto"
+      },
+      {
         "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
-        "x": "-32.2293px",
-        "y": "896px",
+        "x": "-36.3028px",
+        "y": "940.104px",
         "w": "250px",
         "h": "auto"
       }
