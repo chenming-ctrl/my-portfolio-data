@@ -73,13 +73,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_2_ARCH7081_20_Tpyical%20Plan.jpg\">",
-        "x": "559px",
-        "y": "1461.18px",
-        "w": "623.651px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767425622980_2_ARCH7081_20_Concpt%20Collage1%20(3).jpg\">",
         "x": "1575.44px",
         "y": "1246.44px",
@@ -91,6 +84,13 @@
         "x": "-38.3077px",
         "y": "930px",
         "w": "250px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_2_ARCH7081_20_Tpyical%20Plan.jpg\">",
+        "x": "559px",
+        "y": "1461.18px",
+        "w": "623.651px",
         "h": "auto"
       }
     ],
