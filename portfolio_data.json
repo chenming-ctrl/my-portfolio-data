@@ -162,8 +162,17 @@
         "y": "146.06px",
         "w": "80vw",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427215813_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png\">",
+        "x": "213.715px",
+        "y": "569.124px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
-    "thumbs": []
+    "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427215813_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png"
+    ]
   }
 }
