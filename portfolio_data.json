@@ -164,23 +164,23 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427222718_0_ARCH7081_20_Assembly%20parts%20photo%20(4).png\">",
-        "x": "498.029px",
-        "y": "869.299px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427215813_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png\">",
         "x": "162.547px",
         "y": "870.255px",
         "w": "156.006px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427222718_0_ARCH7081_20_Assembly%20parts%20photo%20(4).png\">",
+        "x": "331px",
+        "y": "872.248px",
+        "w": "153.84px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427222718_0_ARCH7081_20_Assembly%20parts%20photo%20(4).png",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427215813_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427215813_0_ARCH7081_20_Assembly%20parts%20photo%20(2).png",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767427222718_0_ARCH7081_20_Assembly%20parts%20photo%20(4).png"
     ]
   }
 }
