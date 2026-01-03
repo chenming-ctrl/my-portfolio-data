@@ -80,17 +80,17 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
-        "x": "-32.2293px",
-        "y": "896px",
-        "w": "250px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767426914926_2_ARCH7081_20_Tpyical%20Plan.jpg\">",
         "x": "559px",
         "y": "1461.18px",
         "w": "623.651px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Assembly Process</b></div>",
+        "x": "-32.2293px",
+        "y": "896px",
+        "w": "250px",
         "h": "auto"
       }
     ],
