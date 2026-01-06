@@ -3,13 +3,6 @@
   "title": "MIC_Tree_1",
   "layout": [
     {
-      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707918509_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
-      "x": "507.5px",
-      "y": "325.5px",
-      "w": "300px",
-      "h": "auto"
-    },
-    {
       "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767708026800_ARCH7081_20_Concpt%20Collage1%20(2).jpg\">",
       "x": "1471.69px",
       "y": "494px",
@@ -35,6 +28,20 @@
       "x": "1162.83px",
       "y": "325px",
       "w": "282.924px",
+      "h": "auto"
+    },
+    {
+      "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+      "x": "500px",
+      "y": "500px",
+      "w": "250px",
+      "h": "auto"
+    },
+    {
+      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707918509_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
+      "x": "500px",
+      "y": "325px",
+      "w": "300px",
       "h": "auto"
     }
   ]
