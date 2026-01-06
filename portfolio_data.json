@@ -55,6 +55,13 @@
     "title": "Log_Assembly_1",
     "layout": [
       {
+        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\">New Text</div>",
+        "x": "500px",
+        "y": "500px",
+        "w": "250px",
+        "h": "auto"
+      },
+      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767709931524_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg\">",
         "x": "507.5px",
         "y": "325.5px",
