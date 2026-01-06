@@ -15,11 +15,19 @@
         "y": "325px",
         "w": "300px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668314150_image.png\">",
+        "x": "1161.84px",
+        "y": "325px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668232689_ARCH7081_20_Site%20Visit%20photo%20(4).jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668254934_ARCH7081_20_Site%20Visit%20photo%20(1).jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668254934_ARCH7081_20_Site%20Visit%20photo%20(1).jpg",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668314150_image.png"
     ]
   }
 }
