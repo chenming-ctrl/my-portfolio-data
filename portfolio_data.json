@@ -50,27 +50,5 @@
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767708009977_ARCH7081_20_Concpt%20Collage1%20(1).jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707918509_ARCH7081_20_Site%20Visit%20photo%20(4).jpg"
     ]
-  },
-  "a1767709872703": {
-    "title": "Log_Assembly_1",
-    "layout": [
-      {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767709931524_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg\">",
-        "x": "524.699px",
-        "y": "277px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
-        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\"><div>The building grows from the roots and <b>expands </b>on the upper part to form a large mushroomshaped</div><div>body that occupies the sky-viewing area.</div></div>",
-        "x": "526.029px",
-        "y": "510px",
-        "w": "615.092px",
-        "h": "auto"
-      }
-    ],
-    "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767709931524_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg"
-    ]
   }
 }
