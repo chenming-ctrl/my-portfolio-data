@@ -31,10 +31,10 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\">The garden under the big banyan tree has become a community center. The elderly passersby and children can sit</span></div><div><span style=\"font-size: 17.6px;\">here. They are not bored with pedestrians who can come and go, thus becoming unintentional watchers. They are also</span></div><div><span style=\"font-size: 17.6px;\">landscapes. This forms a good public space.</span></div></div>",
         "x": "294px",
         "y": "-268px",
-        "w": "250px",
+        "w": "301.575px",
         "h": "auto"
       }
     ],
