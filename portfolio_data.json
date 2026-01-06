@@ -53,7 +53,17 @@
   },
   "a1767709872703": {
     "title": "Log_Assembly_1",
-    "layout": [],
-    "thumbs": []
+    "layout": [
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767709931524_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg\">",
+        "x": "507.5px",
+        "y": "325.5px",
+        "w": "300px",
+        "h": "auto"
+      }
+    ],
+    "thumbs": [
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767709931524_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg"
+    ]
   }
 }
