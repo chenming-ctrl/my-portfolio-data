@@ -31,17 +31,17 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
-        "x": "500px",
-        "y": "500px",
-        "w": "250px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707918509_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
         "x": "500px",
         "y": "325px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "x": "996.938px",
+        "y": "913.243px",
+        "w": "250px",
         "h": "auto"
       }
     ],
