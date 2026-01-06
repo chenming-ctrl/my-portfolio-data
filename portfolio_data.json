@@ -3,13 +3,6 @@
     "title": "Mic_Tree",
     "layout": [
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
-        "x": "-332px",
-        "y": "-768px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666572374_ARCH7081_20_Site%20Visit%20photo%20(1).jpg\">",
         "x": "-29px",
         "y": "-768px",
@@ -50,12 +43,19 @@
         "y": "-294px",
         "w": "320px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
+        "x": "-332px",
+        "y": "-768px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666572374_ARCH7081_20_Site%20Visit%20photo%20(1).jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666600589_image.png"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666600589_image.png",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666772054_image.png"
     ]
   }
 }
