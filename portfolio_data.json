@@ -24,14 +24,14 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Growing Up<b> </b>System</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.</span></div></div>",
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Growing Up<b> </b>System</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.</span></div></div>",
         "x": "622px",
         "y": "-294px",
         "w": "250px",
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><b>Garden&nbsp;</b></div><div><b><br></b></div><div><span style=\"font-size: 17.6px;\">The garden under the big banyan tree has become a community center. The elderly passersby and children can sit&nbsp;</span>here. They are not bored with pedestrians who can come and go, thus becoming unintentional watchers. They are also landscapes. This forms a good public space.</div></div>",
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><b>Garden&nbsp;</b></div><div><b><br></b></div><div><span style=\"font-size: 17.6px;\">The garden under the big banyan tree has become a community center. The elderly passersby and children can sit&nbsp;</span>here. They are not bored with pedestrians who can come and go, thus becoming unintentional watchers. They are also landscapes. This forms a good public space.</div></div>",
         "x": "294px",
         "y": "-294px",
         "w": "301.575px",
@@ -45,17 +45,17 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Scaffold</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;</span>is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than the size of building in gerenal in upper area.</div></div>",
-        "x": "-29px",
-        "y": "-294px",
-        "w": "320px",
-        "h": "auto"
-      },
-      {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Background</b></div>",
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><b>Background</b></div>",
         "x": "-365px",
         "y": "-850.321px",
         "w": "149.363px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Scaffold</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;</span>is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than the size of building in gerenal in upper area.</div></div>",
+        "x": "-29px",
+        "y": "-294px",
+        "w": "320px",
         "h": "auto"
       }
     ],
