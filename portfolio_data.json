@@ -3,13 +3,6 @@
     "title": "Mic_Tree",
     "layout": [
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png\">",
-        "x": "-29.8573px",
-        "y": "-422.267px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
         "x": "274px",
         "y": "41px",
@@ -22,11 +15,18 @@
         "y": "-768px",
         "w": "300px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png\">",
+        "x": "-29.8573px",
+        "y": "-422.267px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/task_1767432601919_0_ARCH7081_20_Assembly%20parts%20photo%20(1).png"
     ]
   }
 }
