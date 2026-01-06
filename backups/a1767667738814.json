@@ -24,13 +24,6 @@
       "h": "auto"
     },
     {
-      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668373906_ARCH7081_20_Conpect%20modle%20photo%20(11).jpg\">",
-      "x": "1504px",
-      "y": "325px",
-      "w": "300px",
-      "h": "auto"
-    },
-    {
       "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668389712_ARCH7081_20_Module1%20Study1%20(2).jpg\">",
       "x": "870px",
       "y": "1272px",
@@ -52,9 +45,16 @@
       "h": "auto"
     },
     {
+      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767668373906_ARCH7081_20_Conpect%20modle%20photo%20(11).jpg\">",
+      "x": "2154.65px",
+      "y": "170.8px",
+      "w": "300px",
+      "h": "auto"
+    },
+    {
       "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767669259902_ARCH7081_20_Conpect%20Collage%20(2).jpg\">",
-      "x": "1807px",
-      "y": "517px",
+      "x": "1476px",
+      "y": "518px",
       "w": "300px",
       "h": "auto"
     }
