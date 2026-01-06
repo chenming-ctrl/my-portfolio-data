@@ -3,13 +3,6 @@
     "title": "Mic_Tree",
     "layout": [
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666572374_ARCH7081_20_Site%20Visit%20photo%20(1).jpg\">",
-        "x": "-29px",
-        "y": "-768px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666600589_image.png\">",
         "x": "294px",
         "y": "-768px",
@@ -28,13 +21,6 @@
         "x": "622px",
         "y": "-294px",
         "w": "250px",
-        "h": "auto"
-      },
-      {
-        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><b>Garden&nbsp;</b></div><div><b><br></b></div><div><span style=\"font-size: 17.6px;\">The garden under the big banyan tree has become a community center. The elderly passersby and children can sit&nbsp;</span>here. They are not bored with pedestrians who can come and go, thus becoming unintentional watchers. They are also landscapes. This forms a good public space.</div></div>",
-        "x": "294px",
-        "y": "-294px",
-        "w": "301.575px",
         "h": "auto"
       },
       {
@@ -57,12 +43,26 @@
         "y": "-294px",
         "w": "320px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666572374_ARCH7081_20_Site%20Visit%20photo%20(1).jpg\">",
+        "x": "-29px",
+        "y": "-768px",
+        "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><b>Garden&nbsp;</b></div><div><b><br></b></div><div><span style=\"font-size: 17.6px;\">The garden under the big banyan tree has become a community center. The elderly passersby and children can sit&nbsp;</span>here. They are not bored with pedestrians who can come and go, thus becoming unintentional watchers. They are also landscapes. This forms a good public space.</div></div>",
+        "x": "294px",
+        "y": "-294px",
+        "w": "301.575px",
+        "h": "auto"
       }
     ],
     "thumbs": [
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666572374_ARCH7081_20_Site%20Visit%20photo%20(1).jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666600589_image.png",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666772054_image.png"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666772054_image.png",
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg"
     ]
   }
 }
