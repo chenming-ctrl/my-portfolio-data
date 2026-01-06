@@ -17,13 +17,6 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Growing Up<b> </b>System</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.</span></div></div>",
-        "x": "622px",
-        "y": "-294px",
-        "w": "250px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767666503973_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
         "x": "-365.192px",
         "y": "-768px",
@@ -56,6 +49,13 @@
         "x": "294px",
         "y": "-294px",
         "w": "301.575px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\"><b>Growing Up<b> </b>System</b></span></div><div><span style=\"font-size: 17.6px;\"><b><br></b></span></div><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.</span></div></div>",
+        "x": "622px",
+        "y": "-294px",
+        "w": "250px",
         "h": "auto"
       }
     ],
