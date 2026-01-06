@@ -45,7 +45,7 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\"><div><span style=\"font-size: 17.6px;\">Growing Up System</span></div><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.</span></div></div>",
         "x": "622px",
         "y": "-294px",
         "w": "250px",
