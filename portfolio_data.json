@@ -83,7 +83,7 @@
       {
         "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
         "x": "200px",
-        "y": "465.956px",
+        "y": "465px",
         "w": "250px",
         "h": "auto"
       }
