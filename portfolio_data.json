@@ -100,17 +100,17 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\">New Text</div>",
-        "x": "873.963px",
-        "y": "839px",
-        "w": "250px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767708039992_ARCH7081_20_Concpt%20Collage1%20(3).jpg\">",
         "x": "1183px",
         "y": "663px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\">New Text</div>",
+        "x": "873.963px",
+        "y": "839px",
+        "w": "250px",
         "h": "auto"
       }
     ],
