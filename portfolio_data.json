@@ -107,8 +107,8 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\">New Text</div>",
-        "x": "873.963px",
+        "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\"><br></div>",
+        "x": "873px",
         "y": "839px",
         "w": "250px",
         "h": "auto"
