@@ -65,6 +65,13 @@
         "y": "238px",
         "w": "300px",
         "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "x": "500px",
+        "y": "500px",
+        "w": "250px",
+        "h": "auto"
       }
     ],
     "thumbs": [
