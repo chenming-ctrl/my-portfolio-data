@@ -60,17 +60,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767754058199_5.jpg\">",
-        "x": "509px",
-        "y": "238px",
-        "w": "300px",
+        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
+        "x": "513px",
+        "y": "417px",
+        "w": "250px",
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
-        "x": "510px",
-        "y": "418px",
-        "w": "250px",
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767754058199_5.jpg\">",
+        "x": "517px",
+        "y": "239px",
+        "w": "300px",
         "h": "auto"
       }
     ],
