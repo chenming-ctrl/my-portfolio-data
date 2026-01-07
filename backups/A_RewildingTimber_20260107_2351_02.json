@@ -1,0 +1,13 @@
+{
+  "title": "Rewilding Timber",
+  "layout": [
+    {
+      "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\">Double Clickto<span style=\"font-size: 1.1rem;\">it...</span></div>",
+      "x": "500px",
+      "y": "500px",
+      "w": "250px",
+      "h": "auto"
+    }
+  ],
+  "thumbs": []
+}
