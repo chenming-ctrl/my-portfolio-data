@@ -74,13 +74,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767771411042_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
-        "x": "930.657px",
-        "y": "-398.383px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"false\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300;\">New Text</div>",
         "x": "200px",
         "y": "465px",
@@ -91,6 +84,13 @@
         "html": "\n            <div class=\"text-toolbar\">\n                <select onchange=\"document.execCommand('fontName', false, this.value)\"><option value=\"'Helvetica Neue'\">Helvetica Neue</option><option value=\"'Arial'\">Arial</option><option value=\"'Georgia'\">Georgia</option><option value=\"'Courier New'\">Courier New</option><option value=\"'Times New Roman'\">Times New Roman</option></select>\n                <button onclick=\"document.execCommand('bold', false, null)\">B</button>\n                <button onclick=\"document.execCommand('justifyLeft', false, null)\">左</button>\n                <button onclick=\"document.execCommand('justifyCenter', false, null)\">中</button>\n                <button onclick=\"document.execCommand('justifyRight', false, null)\">右</button>\n            </div>\n            <div class=\"editable-content\" style=\"font-family:'Helvetica Neue'; font-weight:300; font-size:1.1rem; line-height:1.5;\">New Text Content...</div>",
         "x": "515.503px",
         "y": "415.024px",
+        "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767771411042_ARCH7081_20_Site%20Visit%20photo%20(4).jpg\">",
+        "x": "-119.023px",
+        "y": "-418.32px",
         "w": "300px",
         "h": "auto"
       }
