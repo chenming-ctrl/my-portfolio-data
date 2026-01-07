@@ -100,13 +100,6 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.&nbsp;</span>First, build a new frame on the old building in Hong Kong, the concrete boundary is the high limit, and the original roof. Then the&nbsp;<span style=\"font-size: 1.1rem;\">structure was built to create a reasonable space for the citizens to use. In order to communicate between buildings, it is very important for architectural elements to connect during the growth process.</span></div></div>",
-        "x": "1182px",
-        "y": "829.212px",
-        "w": "319.105px",
-        "h": "auto"
-      },
-      {
         "html": "<div class=\"text-editor\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:100px; min-height:50px; cursor:text;\"><div><span style=\"font-size: 17.6px;\">In HongKong, wood material using is unlegal, but which interesting is that there were many scafford in Shanghai Street&nbsp;</span>is made by bamboo instead of metal. In many's impression, bamboo is more simple as a sort of temporary constraction material in Hong Kong. And for the under area using in operation, they touch a little area in the ground, but bigger than</div><div><span style=\"font-size: 17.6px;\">the size of building in gerenal in upper area.</span></div></div>",
         "x": "873px",
         "y": "824.934px",
@@ -118,6 +111,13 @@
         "x": "518.832px",
         "y": "326.389px",
         "w": "312.884px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><div><span style=\"font-size: 17.6px;\">The building grows from the roots and expands on the upper part to form a large mushroomshaped</span></div><div><span style=\"font-size: 17.6px;\">body that occupies the sky-viewing area.&nbsp;</span>First, build a new frame on the old building in Hong Kong, the concrete boundary is the high limit, and the original roof. Then the&nbsp;<span style=\"font-size: 1.1rem;\">structure was built to create a reasonable space for the citizens to use. In order to communicate between buildings, it is very important for architectural elements to connect during the growth process.</span></div></div>",
+        "x": "1182px",
+        "y": "829px",
+        "w": "319.105px",
         "h": "auto"
       }
     ],
