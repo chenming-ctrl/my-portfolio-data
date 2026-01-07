@@ -128,17 +128,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802642185_ARCH7081_20_Rooftop%20Photo%20(12).jpg\" style=\"opacity: 1;\">",
-        "x": "1548px",
-        "y": "590px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802628248_ARCH7081_20_Rooftop%20Photo%20(6).jpg\" style=\"opacity: 1;\">",
         "x": "1548px",
         "y": "326px",
         "w": "267.125px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802642185_ARCH7081_20_Rooftop%20Photo%20(12).jpg\" style=\"opacity: 1;\">",
+        "x": "1548px",
+        "y": "590px",
+        "w": "269.984px",
         "h": "auto"
       }
     ],
