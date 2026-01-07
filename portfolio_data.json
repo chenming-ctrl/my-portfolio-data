@@ -135,7 +135,7 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><div><span style=\"font-size: 17.6px;\">Complex ownership makes it impossible to construct new residential buildings. But what’s interesting is that Hong&nbsp;</span>Kong’s roofs are not fully utilized. At the same time, citizens enjoy using such spaces. They do all kinds of things on</div><div><span style=\"font-size: 17.6px;\">the roofs, talking, doing sports, and drying clothes, but these are all private. Regions and activities. Why not make a&nbsp;</span>reasonable and logical plan for such a space in a unified and reasonable manner?</div></div>",
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><div><span style=\"font-size: 17.6px;\">Complex ownership makes it impossible to construct new residential buildings. But what’s interesting is that Hong&nbsp;</span>Kong’s roofs are not fully utilized. At the same time, citizens enjoy using such spaces. They do all kinds of things on the roofs, talking, doing sports, and drying clothes, but these are all private. Regions and activities. Why not make a&nbsp;<span style=\"font-size: 1.1rem;\">reasonable and logical plan for such a space in a unified and reasonable manner?</span></div></div>",
         "x": "1535.86px",
         "y": "832px",
         "w": "351.125px",
