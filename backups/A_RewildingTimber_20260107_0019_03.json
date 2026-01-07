@@ -1,0 +1,30 @@
+{
+  "title": "Rewilding Timber",
+  "layout": [
+    {
+      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802226052_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg\" style=\"opacity: 1;\">",
+      "x": "464.283px",
+      "y": "14.2803px",
+      "w": "300px",
+      "h": "auto"
+    },
+    {
+      "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802233470_74c40744-d3ae-11e8-81a4-d952f5356e85_1280x720_093153.jpg\" style=\"opacity: 1;\">",
+      "x": "464px",
+      "y": "248.011px",
+      "w": "300px",
+      "h": "auto"
+    },
+    {
+      "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><span style=\"font-size: 17.6px;\">Hong Kong is rich in timber resources and used to be a transit point for the traditional timber industry. Hong Kong is facing the threat of extreme weather phenomena. Typhoon Mangkhut has caused great damage to Hong Kong. The local collapse was severe, but most of it was recycled as reclamation materials.</span></div>",
+      "x": "449.493px",
+      "y": "462.12px",
+      "w": "339.504px",
+      "h": "auto"
+    }
+  ],
+  "thumbs": [
+    "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802226052_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg",
+    "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802233470_74c40744-d3ae-11e8-81a4-d952f5356e85_1280x720_093153.jpg"
+  ]
+}
