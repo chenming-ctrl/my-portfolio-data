@@ -91,13 +91,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767842023311_image.png\" style=\"opacity: 1;\">",
-        "x": "237.434px",
-        "y": "736px",
-        "w": "215.064px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841956959_image.png\" style=\"opacity: 1;\">",
         "x": "1114px",
         "y": "852px",
@@ -116,6 +109,13 @@
         "x": "1100px",
         "y": "1003px",
         "w": "410.068px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767842023311_image.png\" style=\"opacity: 1;\">",
+        "x": "190.733px",
+        "y": "736px",
+        "w": "215.064px",
         "h": "auto"
       }
     ],
