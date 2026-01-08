@@ -70,13 +70,6 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
-        "x": "468.5px",
-        "y": "982.803px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><span style=\"font-size: 17.6px;\">Hong Kong is rich in timber resources and used to be a transit point for the traditional timber industry. Hong Kong is facing the threat of extreme weather phenomena. Typhoon Mangkhut has caused great damage to Hong Kong. The local collapse was severe, but most of it was recycled as reclamation materials.</span></div>",
         "x": "449.493px",
         "y": "462.12px",
@@ -88,6 +81,13 @@
         "x": "468.5px",
         "y": "736px",
         "w": "604.717px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
+        "x": "468.5px",
+        "y": "982.803px",
+        "w": "300px",
         "h": "auto"
       }
     ],
