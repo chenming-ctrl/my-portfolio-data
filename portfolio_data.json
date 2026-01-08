@@ -84,13 +84,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841989710_image.png\" style=\"opacity: 1;\">",
-        "x": "1121px",
-        "y": "738.334px",
-        "w": "323.074px",
-        "h": "auto"
-      },
-      {
         "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\"><div><span style=\"font-size: 17.6px;\">The rotatable wood joinery is constructed using standard constructions. While ensuring the axial transmission of the&nbsp;</span>force at the connection point, it allows the two wooden sticks to rotate with each other, maximizing the richness of the two combined wooden sticks.</div></div>",
         "x": "468px",
         "y": "995px",
@@ -133,9 +126,16 @@
         "h": "auto"
       },
       {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841989710_image.png\" style=\"opacity: 1;\">",
+        "x": "919.767px",
+        "y": "1263.56px",
+        "w": "323.074px",
+        "h": "auto"
+      },
+      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841956959_image.png\" style=\"opacity: 1;\">",
-        "x": "961.715px",
-        "y": "1423.07px",
+        "x": "912.767px",
+        "y": "1377.56px",
         "w": "319.613px",
         "h": "auto"
       }
