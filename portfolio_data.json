@@ -70,13 +70,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841741666_image.png\" style=\"opacity: 1;\">",
-        "x": "793px",
-        "y": "14px",
-        "w": "290.77px",
-        "h": "auto"
-      },
-      {
         "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
         "x": "1124.89px",
         "y": "462px",
@@ -85,16 +78,23 @@
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841823680_DSC_3496-1.jpg\" style=\"opacity: 1;\">",
-        "x": "910.488px",
+        "x": "949.5px",
         "y": "14px",
         "w": "649.518px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841741666_image.png\" style=\"opacity: 1;\">",
+        "x": "793px",
+        "y": "14px",
+        "w": "290.77px",
         "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802226052_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg",
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802233470_74c40744-d3ae-11e8-81a4-d952f5356e85_1280x720_093153.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841741666_image.png"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841823680_DSC_3496-1.jpg"
     ]
   },
   "a1767799469565": {
