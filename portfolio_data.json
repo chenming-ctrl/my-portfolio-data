@@ -119,17 +119,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767850567124_Branch%20Triming.jpg\" style=\"opacity: 1;\">",
-        "x": "103px",
-        "y": "1139.44px",
-        "w": "390.543px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767850551623_image.png\" style=\"opacity: 1;\">",
         "x": "495.922px",
         "y": "1185px",
         "w": "981.222px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767850567124_Branch%20Triming.jpg\" style=\"opacity: 1;\">",
+        "x": "103px",
+        "y": "1118.52px",
+        "w": "390.543px",
         "h": "auto"
       }
     ],
