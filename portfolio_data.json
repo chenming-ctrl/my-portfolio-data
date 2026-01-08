@@ -70,13 +70,6 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
-        "x": "1133.85px",
-        "y": "302.958px",
-        "w": "300px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841741666_image.png\" style=\"opacity: 1;\">",
         "x": "793px",
         "y": "14px",
@@ -85,9 +78,16 @@
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841823680_DSC_3496-1.jpg\" style=\"opacity: 1;\">",
-        "x": "970.751px",
+        "x": "1327.01px",
         "y": "14px",
         "w": "649.518px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
+        "x": "1126.24px",
+        "y": "476.448px",
+        "w": "300px",
         "h": "auto"
       }
     ],
