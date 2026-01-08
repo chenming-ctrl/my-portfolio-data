@@ -56,17 +56,31 @@
         "h": "auto"
       },
       {
-        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><span style=\"font-size: 17.6px;\">Hong Kong is rich in timber resources and used to be a transit point for the traditional timber industry. Hong Kong is facing the threat of extreme weather phenomena. Typhoon Mangkhut has caused great damage to Hong Kong. The local collapse was severe, but most of it was recycled as reclamation materials.</span></div>",
-        "x": "449.493px",
-        "y": "462.12px",
-        "w": "339.504px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841741666_image.png\" style=\"opacity: 1;\">",
         "x": "788px",
         "y": "14px",
         "w": "290.77px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
+        "x": "842.774px",
+        "y": "239.122px",
+        "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
+        "x": "875.429px",
+        "y": "309.611px",
+        "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<div contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px;\"><span style=\"font-size: 17.6px;\">Hong Kong is rich in timber resources and used to be a transit point for the traditional timber industry. Hong Kong is facing the threat of extreme weather phenomena. Typhoon Mangkhut has caused great damage to Hong Kong. The local collapse was severe, but most of it was recycled as reclamation materials.</span></div>",
+        "x": "449.493px",
+        "y": "462.12px",
+        "w": "339.504px",
         "h": "auto"
       }
     ],
