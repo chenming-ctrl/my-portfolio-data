@@ -126,9 +126,16 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"blob:https://chenming-ctrl.github.io/cbae8623-5b93-49fa-8454-7c4e56099d04\" style=\"opacity:0.5\">",
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881182389_image.png\" style=\"opacity: 1;\">",
         "x": "782.565px",
         "y": "1844.36px",
+        "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"blob:https://chenming-ctrl.github.io/44fb48d0-5937-4cc7-a761-f01fd1e8eec7\" style=\"opacity:0.5\">",
+        "x": "923.279px",
+        "y": "1961.33px",
         "w": "300px",
         "h": "auto"
       }
