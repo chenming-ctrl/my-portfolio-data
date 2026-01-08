@@ -84,10 +84,10 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">Double Click to Edit...</div>",
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\"><div><span style=\"font-size: 17.6px;\">The rotatable wood joinery is constructed using standard constructions. While ensuring the axial transmission of the</span></div><div><span style=\"font-size: 17.6px;\">force at the connection point, it allows the two wooden sticks to rotate with each other, maximizing the richness of the</span></div><div><span style=\"font-size: 17.6px;\">two combined wooden sticks.</span></div></div>",
         "x": "468px",
         "y": "995px",
-        "w": "300px",
+        "w": "632.468px",
         "h": "auto"
       }
     ],
