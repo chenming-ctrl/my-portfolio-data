@@ -149,17 +149,17 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841550051_image.png\" style=\"opacity: 1;\">",
-        "x": "1190.5px",
-        "y": "1353.8px",
-        "w": "355.527px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841490640_ARCH7081_20_Module1%20Study1%20(2).jpg\" style=\"opacity: 1;\">",
         "x": "528px",
         "y": "1310.71px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841550051_image.png\" style=\"opacity: 1;\">",
+        "x": "1206.86px",
+        "y": "1310px",
+        "w": "355.527px",
         "h": "auto"
       }
     ],
