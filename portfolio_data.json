@@ -98,13 +98,6 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">In a structural system based on such a joinery, the direction of the axial force is maintained between the elements. It also retains the freedom to adjust the rotation.Therefore, the possibility of even two branches is great.</div>",
-        "x": "1114px",
-        "y": "994px",
-        "w": "342.322px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841956959_image.png\" style=\"opacity: 1;\">",
         "x": "1114px",
         "y": "852px",
@@ -115,7 +108,14 @@
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841989710_image.png\" style=\"opacity: 1;\">",
         "x": "1114px",
         "y": "736px",
-        "w": "300px",
+        "w": "323.074px",
+        "h": "auto"
+      },
+      {
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">In a structural system based on such a joinery, the direction of the axial force is maintained between the elements. It also retains the freedom to adjust the rotation.Therefore, the possibility of even two branches is great.</div>",
+        "x": "1114px",
+        "y": "994px",
+        "w": "342.322px",
         "h": "auto"
       }
     ],
