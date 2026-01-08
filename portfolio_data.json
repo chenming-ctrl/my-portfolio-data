@@ -61,11 +61,19 @@
         "y": "462.12px",
         "w": "339.504px",
         "h": "auto"
+      },
+      {
+        "html": "<img src=\"blob:https://chenming-ctrl.github.io/f211ef04-a11f-40b5-976c-afaf88e4756e\" style=\"opacity:0.5\">",
+        "x": "788px",
+        "y": "14px",
+        "w": "300px",
+        "h": "auto"
       }
     ],
     "thumbs": [
       "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802226052_03Log-sawing-IDJ-Kowloon-log-sawing-by-hand-a.jpg",
-      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802233470_74c40744-d3ae-11e8-81a4-d952f5356e85_1280x720_093153.jpg"
+      "https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767802233470_74c40744-d3ae-11e8-81a4-d952f5356e85_1280x720_093153.jpg",
+      "blob:https://chenming-ctrl.github.io/f211ef04-a11f-40b5-976c-afaf88e4756e"
     ]
   },
   "a1767799469565": {
