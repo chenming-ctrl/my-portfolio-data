@@ -161,18 +161,18 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881158582_Assembly1.jpg\" style=\"opacity: 1;\">",
-        "x": "510.622px",
-        "y": "1966.03px",
-        "w": "205.574px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881221909_image.png\" style=\"opacity: 1;\">",
         "x": "480.604px",
         "y": "1766.44px",
         "w": "457.41px",
         "h": "260.21px"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881158582_Assembly1.jpg\" style=\"opacity: 1;\">",
+        "x": "496.328px",
+        "y": "1965.02px",
+        "w": "205.574px",
+        "h": "auto"
       }
     ],
     "thumbs": [
