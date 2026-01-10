@@ -143,21 +143,14 @@
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881191728_image.png\" style=\"opacity: 1;\">",
         "x": "720.605px",
         "y": "2235.13px",
-        "w": "237.534px",
+        "w": "312.288px",
         "h": "auto"
       },
       {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881158582_Assembly1.jpg\" style=\"opacity: 1;\">",
         "x": "490.605px",
         "y": "2044.13px",
-        "w": "205.574px",
-        "h": "auto"
-      },
-      {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881182389_image.png\" style=\"opacity: 1;\">",
-        "x": "718.605px",
-        "y": "2121.13px",
-        "w": "237.534px",
+        "w": "263.243px",
         "h": "auto"
       },
       {
@@ -172,6 +165,13 @@
         "x": "480.964px",
         "y": "1712.17px",
         "w": "591.325px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767881182389_image.png\" style=\"opacity: 1;\">",
+        "x": "756.16px",
+        "y": "2101.4px",
+        "w": "312.288px",
         "h": "auto"
       }
     ],
