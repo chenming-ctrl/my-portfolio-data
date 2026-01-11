@@ -248,13 +248,6 @@
         "h": "auto"
       },
       {
-        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707981545_ARCH7081_20_People%20in%20site%20hoto%20(3).png\">",
-        "x": "879.5px",
-        "y": "326.5px",
-        "w": "282.924px",
-        "h": "auto"
-      },
-      {
         "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767841490640_ARCH7081_20_Module1%20Study1%20(2).jpg\" style=\"opacity: 1;\">",
         "x": "528px",
         "y": "1310.71px",
@@ -273,6 +266,13 @@
         "x": "870px",
         "y": "1745px",
         "w": "300px",
+        "h": "auto"
+      },
+      {
+        "html": "<img src=\"https://raw.githubusercontent.com/chenming-ctrl/my-portfolio-data/main/media/1767707981545_ARCH7081_20_People%20in%20site%20hoto%20(3).png\">",
+        "x": "879.5px",
+        "y": "326.5px",
+        "w": "282.924px",
         "h": "auto"
       }
     ],
