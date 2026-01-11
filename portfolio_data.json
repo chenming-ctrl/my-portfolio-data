@@ -173,13 +173,6 @@
         "y": "1459px",
         "w": "312.879px",
         "h": "auto"
-      },
-      {
-        "html": "\n            <div class=\"text-toolbar\" onclick=\"event.stopPropagation()\">\n                <button class=\"t-btn\" onclick=\"execTextCommand('bold')\">B</button>\n                <button class=\"t-btn\" onclick=\"execTextCommand('italic')\">I</button>\n                <div class=\"t-divider\"></div>\n                <button class=\"t-btn\" onclick=\"execTextCommand('justifyLeft')\">L</button>\n                <button class=\"t-btn\" onclick=\"execTextCommand('justifyCenter')\">C</button>\n                <button class=\"t-btn\" onclick=\"execTextCommand('justifyRight')\">R</button>\n            </div>\n            <div class=\"editable-text\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left; pointer-events:none;\" onblur=\"saveToCloud()\">\n                Double Click to Edit...\n            </div>",
-        "x": "1193.24px",
-        "y": "1382.47px",
-        "w": "350px",
-        "h": "auto"
       }
     ],
     "thumbs": [
