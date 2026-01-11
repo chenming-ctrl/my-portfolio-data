@@ -56,7 +56,7 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">1&amp;2.Tradational timber use is convenient but rough and rude. 3. Used timbers nature feature as design potential, but with rough computing tools, still need site modification. 4. High tech construction, advanced logs using field.</div>",
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"false\" style=\"padding: 20px; font-size: 1.1rem; outline: none; font-weight: 300; min-width: 150px; text-align: left; pointer-events: none;\">1&amp;2.Tradational timber use is convenient but rough and rude. 3. Used timbers nature feature as design potential, but with rough computing tools, still need site modification. 4. High tech construction, advanced logs using field.</div>",
         "x": "788px",
         "y": "462px",
         "w": "300px",
@@ -154,7 +154,7 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\"><div><span style=\"font-size: 17.6px;\">The&nbsp;</span>rotatable&nbsp;<span style=\"font-size: 17.6px;\">wood joinery is constructed using standard constructions. While ensuring the axial transmission of the&nbsp;</span>force at the connection point, it allows the two wooden sticks to rotate with each other, maximizing the richness of the two combined wooden sticks.</div></div>",
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"false\" style=\"padding: 20px; font-size: 1.1rem; outline: none; font-weight: 300; min-width: 150px; text-align: left; pointer-events: none;\"><div><span style=\"font-size: 17.6px;\">The&nbsp;</span>rotatable&nbsp;<span style=\"font-size: 17.6px;\">wood joinery is constructed using standard constructions. While ensuring the axial transmission of the&nbsp;</span>force at the connection point, it allows the two wooden sticks to rotate with each other, maximizing the richness of the two combined wooden sticks.</div></div>",
         "x": "454.948px",
         "y": "1006.28px",
         "w": "632.468px",
@@ -168,17 +168,10 @@
         "h": "auto"
       },
       {
-        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"true\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; text-align:left;\">In a structural system based on such a joinery, the direction of the axial force is maintained between the elements. It also retains the freedom to adjust the rotation.Therefore, the possibility of even two branches is great.</div>",
+        "html": "<div class=\"text-toolbar\" onclick=\"event.stopPropagation()\"><button class=\"t-btn\" onclick=\"setTextAlign(this, 'left')\">L</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'center')\">C</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'right')\">R</button><button class=\"t-btn\" onclick=\"setTextAlign(this, 'justify')\">J</button></div><div class=\"editable-text\" contenteditable=\"false\" style=\"padding: 20px; font-size: 1.1rem; outline: none; font-weight: 300; min-width: 150px; text-align: left; pointer-events: none;\">In a structural system based on such a joinery, the direction of the axial force is maintained between the elements. It also retains the freedom to adjust the rotation.Therefore, the possibility of even two branches is great.</div>",
         "x": "776px",
         "y": "1459px",
         "w": "312.879px",
-        "h": "auto"
-      },
-      {
-        "html": "\n            <div class=\"text-toolbar\" onclick=\"event.stopPropagation()\">\n                <button class=\"t-btn\" onclick=\"execFormat('bold')\">B</button>\n                <button class=\"t-btn\" onclick=\"execFormat('italic')\">I</button>\n                <div class=\"t-divider\"></div>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyLeft')\">L</button>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyCenter')\">C</button>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyRight')\">R</button>\n            </div>\n            <div class=\"editable-text\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; pointer-events:none;\">New Text Box...</div>",
-        "x": "1419.64px",
-        "y": "1769.16px",
-        "w": "320px",
         "h": "auto"
       }
     ],
