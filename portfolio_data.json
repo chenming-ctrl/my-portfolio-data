@@ -173,6 +173,13 @@
         "y": "1459px",
         "w": "312.879px",
         "h": "auto"
+      },
+      {
+        "html": "\n            <div class=\"text-toolbar\" onclick=\"event.stopPropagation()\">\n                <button class=\"t-btn\" onclick=\"execFormat('bold')\">B</button>\n                <button class=\"t-btn\" onclick=\"execFormat('italic')\">I</button>\n                <div class=\"t-divider\"></div>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyLeft')\">L</button>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyCenter')\">C</button>\n                <button class=\"t-btn\" onclick=\"execFormat('justifyRight')\">R</button>\n            </div>\n            <div class=\"editable-text\" style=\"padding:20px; font-size:1.1rem; outline:none; font-weight:300; min-width:150px; pointer-events:none;\">New Text Box...</div>",
+        "x": "1324.76px",
+        "y": "1929.81px",
+        "w": "320px",
+        "h": "auto"
       }
     ],
     "thumbs": [
