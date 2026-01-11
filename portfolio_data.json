@@ -173,13 +173,6 @@
         "y": "736px",
         "w": "604.717px",
         "h": "auto"
-      },
-      {
-        "html": "\n            \n        <div class=\"text-toolbar\" onmousedown=\"event.preventDefault()\">\n            <button class=\"t-btn\" onclick=\"formatDoc('bold')\">B</button>\n            <button class=\"t-btn\" onclick=\"formatDoc('italic')\">I</button>\n            <button class=\"t-btn\" onclick=\"formatDoc('underline')\">U</button>\n            <div class=\"t-sep\"></div>\n            <button class=\"t-btn\" onclick=\"formatDoc('justifyLeft')\">L</button>\n            <button class=\"t-btn\" onclick=\"formatDoc('justifyCenter')\">C</button>\n            <button class=\"t-btn\" onclick=\"formatDoc('justifyRight')\">R</button>\n            <div class=\"t-sep\"></div>\n            <button class=\"t-btn\" onclick=\"formatDoc('formatBlock','H3')\">H3</button>\n            <button class=\"t-btn\" onclick=\"formatDoc('formatBlock','P')\">P</button>\n            <button class=\"t-btn done-btn\" onclick=\"finishEditing()\">✔ DONE</button>\n        </div>\n            <div class=\"editable-text\" contenteditable=\"false\">\n                <b>New Text Block</b><br>Double click to edit content...\n            </div>",
-        "x": "1491.54px",
-        "y": "2327.56px",
-        "w": "320px",
-        "h": "auto"
       }
     ],
     "thumbs": [
